@@ -1,2 +1,2 @@
 # Arte
-Programa que exibira uma arte, atividade para ETEC
+Programa que exibira uma AsciiArt, atividade para ETEC
